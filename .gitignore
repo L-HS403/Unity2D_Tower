@@ -1,0 +1,11 @@
+
+Library/
+Temp/
+obj/
+Logs/
+UserSettings/
+
+/.vsconfig
+/UpgradeLog.htm
+/Assembly-CSharp.csproj
+/My project.sln
